@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/grails-plugins/!svn/ver/72325/grails-codenarc/trunk/test/unit
+END
+AbstractTestCase.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/grails-plugins/!svn/ver/72325/grails-codenarc/trunk/test/unit/AbstractTestCase.groovy
+END
+BuildConfig.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/grails-plugins/!svn/ver/72325/grails-codenarc/trunk/test/unit/BuildConfig.groovy
+END
+Config.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/grails-plugins/!svn/ver/58659/grails-codenarc/trunk/test/unit/Config.groovy
+END
+CodenarcScriptTests.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/grails-plugins/!svn/ver/72325/grails-codenarc/trunk/test/unit/CodenarcScriptTests.groovy
+END

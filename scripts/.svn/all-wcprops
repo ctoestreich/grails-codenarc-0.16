@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/grails-plugins/!svn/ver/72326/grails-codenarc/trunk/scripts
+END
+Codenarc.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/grails-plugins/!svn/ver/72326/grails-codenarc/trunk/scripts/Codenarc.groovy
+END
+_Install.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/grails-plugins/!svn/ver/52407/grails-codenarc/trunk/scripts/_Install.groovy
+END
+_Upgrade.groovy
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/grails-plugins/!svn/ver/52407/grails-codenarc/trunk/scripts/_Upgrade.groovy
+END
